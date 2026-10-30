@@ -73,27 +73,27 @@ The application displayed the following execution stages:
 Paste the screenshots from the application below, in the order they appear in your supplied PDF.
 
 #### Screenshot 1 — Research question and short answer
-
+![Research question and short answer](../images/screenshot1.png)
 <!-- Paste screenshot 1 here. -->
 
 #### Screenshot 2 — Key findings and initial sources
-
+![Key findings and initial sources](../images/screenshot2.png)
 <!-- Paste screenshot 2 here. -->
 
 #### Screenshot 3 — Retrieved sources and source content
-
+![Retrieved sources and source content](../images/screenshot3.png)
 <!-- Paste screenshot 3 here. -->
 
 #### Screenshot 4 — Additional retrieved sources
-
+![Additional retrieved sources](../images/screenshot4.png)
 <!-- Paste screenshot 4 here. -->
 
 #### Screenshot 5 — Confidence, limitations, and suggested next steps
-
+![Confidence, limitations, and suggested next steps](../images/screenshot5.png)
 <!-- Paste screenshot 5 here. -->
 
 #### Screenshot 6 — Agent execution trace
-
+![AGent execution trace](../images/screenshot6.png)
 <!-- Paste screenshot 6 here. -->
 
 ### 9. Evaluation Observation
