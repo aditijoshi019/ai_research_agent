@@ -1,0 +1,10 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+langgraph==0.3.34
+langchain-core==0.3.59
+langchain-groq==0.3.2
+tavily-python==0.7.12
+pydantic==2.11.4
+python-dotenv==1.1.0
+httpx==0.28.1
+pytest==8.3.5
